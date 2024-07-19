@@ -12,10 +12,10 @@ Available datasets
 
 Available Algorithms
 1) PerMFL (Ours)
-2) pFedMe 
+2) pFedMe taken from \url{https://github.com/CharlieDinh/pFedMe}
 3) h-SGD
 4) FedAvg
-5) Per-FedAvg
+5) Per-FedAvg taken from \url{https://github.com/CharlieDinh/pFedMe}
 6) Ditto
 7) AL2GD
 
