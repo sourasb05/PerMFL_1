@@ -3,6 +3,9 @@
 # Abstract: 
 The key challenge of personalized federated learning (PerFL) is to capture the statistical heterogeneity properties of data with inexpensive communications and gain customized performance for participating devices. To address these, we introduced personalized federated learning in multi-tier architecture (\ourmodel{}) to obtain optimized and personalized local models when there are known team structures across devices. We provide theoretical guarantees of \ourmodel{}, which offers linear convergence rates for smooth strongly convex problems and sub-linear convergence rates for smooth non-convex problems. We conduct numerical experiments demonstrating the robust empirical performance of \ourmodel{}, outperforming the state-of-the-art in multiple personalized federated learning tasks.
 
+# Paper link https://arxiv.org/abs/2407.14251
+
+
 Available datasets
 1) MNIST 
 2) FMNIST
